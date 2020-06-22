@@ -1,2 +1,2 @@
 # Ignivent
-A website for college annual fest
+A website for our college annual fest

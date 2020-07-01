@@ -1,2 +1,2 @@
 # Ignivent
-A website for our college annual fest
+Ignivent is the annual social and cultural festival of ABIT,Cuttack. It mmarks the days of absolute ectasy,providing the budding artists a competing platform in diverse fields such as music, dance, fashion, technology, quizzing and debating.Ignivent is an avenue to be comforted from the routine of life and to embrace the fun and frollic embedded with tantalizimg professional performances along with the adressal to the social responsibility.
